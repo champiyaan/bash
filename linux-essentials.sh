@@ -18,6 +18,7 @@ sudo apt install libqt5gui5
 sudo apt install p7zip-full
 
 # Install Winbox using Snap
+sudo snap install fbreader
 sudo snap install winbox
 sudo snap install code --classic
 #sudo snap install remmina
